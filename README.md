@@ -1,7 +1,6 @@
 # កម្មវិធីធ្វើកាតសិស្ស
-កម្មវិធីធ្វើកាតសិស្សដោយប្រើប្រាស់ excel
+
 ![alt text](https://github.com/128beard/student_card/blob/main/dashboard.png)
-<p align="center">
-  <img src="https://github.com/128beard/student_card/blob/main/dashboard.png" width="350" title="hover text">
-  <img src="https://github.com/128beard/student_card/blob/main/dashboard.png" width="350" alt="accessibility text">
-</p>
+កម្មវិធីធ្វើកាតសិស្សដោយប្រើប្រាស់ excel <br>
+កម្មវិធីនេះអាចធ្វើកាតសិស្សបានម្តង ៣០០០ កាត ដែលក្នុងមួយសន្លឹកធ្វើបាន ៦ កាត។<br>
+តំណភ្ជាប់ ៖ [Download](https://github.com/128beard/student_card/releases/)
